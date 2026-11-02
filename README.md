@@ -74,3 +74,20 @@ Integration with cloud services for scalability and reliability.
 Real-time capabilities using WebSocket or similar technologies.
 Conclusion:
 The Master-Access-CRM-PrimeVue-App is a comprehensive solution for managing customer relationships, streamlining business processes, and driving growth. Its user-friendly interface, customizable options, and powerful features make it an essential tool for businesses seeking to enhance their CRM capabilities and achieve better business outcomes.
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Faccess-crm-primevue&root-directory=frontend)
+
+Click the button to deploy your own copy on Vercel in one step.
+
+The app lives in the `frontend` folder, which the button sets as the Vercel root directory.
+
+Set these environment variables in the Vercel project settings (see `.env.example`):
+
+- `VUE_APP_API_PATH`
+- `VUE_APP_API_URL`
+- `VUE_APP_LOCALE`
+- `VUE_APP_NAME`
+- `VUE_APP_PUBLIC_URL`
+- `VUE_APP_STORAGE_KEY`
