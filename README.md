@@ -91,3 +91,10 @@ Set these environment variables in the Vercel project settings (see `.env.exampl
 - `VUE_APP_NAME`
 - `VUE_APP_PUBLIC_URL`
 - `VUE_APP_STORAGE_KEY`
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
