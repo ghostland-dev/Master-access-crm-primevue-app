@@ -3,13 +3,13 @@ export default {
 		name: "",
 		url: "http://localhost:8060",
 		frontendUrl: "http://localhost:8050",
-		secret: "***REMOVED***",
+		secret: "dummy-secret-for-tests",
 		language: "french",
 		publicDir: "assets",
 	},
 	auth: {
-		userTokenSecret: "***REMOVED***",
-		apiTokenSecret: "***REMOVED***",
+		userTokenSecret: "dummy-userTokenSecret-for-tests",
+		apiTokenSecret: "dummy-apiTokenSecret-for-tests",
 		jwtDuration: 30, //in minutes
 		otpDuration: 5, //in minutes
 	},
