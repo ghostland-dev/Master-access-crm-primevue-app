@@ -1,7 +1,7 @@
-Master-Access-CRM-PrimeVue-App
+# CRM PrimeVue
 
 Overview:
-The Master-Access-CRM-PrimeVue-App is an advanced customer relationship management (CRM) application built with the powerful PrimeVue framework. Designed for businesses of all sizes, this app provides comprehensive tools for managing customer interactions, sales processes, marketing campaigns, and support services. Its intuitive interface and robust feature set enable businesses to streamline operations, enhance customer satisfaction, and drive growth.
+The CRM PrimeVue app is an advanced customer relationship management (CRM) application built with the powerful PrimeVue framework. Designed for businesses of all sizes, this app provides comprehensive tools for managing customer interactions, sales processes, marketing campaigns, and support services. Its intuitive interface and robust feature set enable businesses to streamline operations, enhance customer satisfaction, and drive growth.
 
 Features:
 
@@ -73,11 +73,11 @@ Backend developed using robust and scalable technologies (e.g., Node.js, Express
 Integration with cloud services for scalability and reliability.
 Real-time capabilities using WebSocket or similar technologies.
 Conclusion:
-The Master-Access-CRM-PrimeVue-App is a comprehensive solution for managing customer relationships, streamlining business processes, and driving growth. Its user-friendly interface, customizable options, and powerful features make it an essential tool for businesses seeking to enhance their CRM capabilities and achieve better business outcomes.
+The CRM PrimeVue app is a comprehensive solution for managing customer relationships, streamlining business processes, and driving growth. Its user-friendly interface, customizable options, and powerful features make it an essential tool for businesses seeking to enhance their CRM capabilities and achieve better business outcomes.
 
 ## Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Faccess-crm-primevue&root-directory=frontend)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fcrm-primevue&root-directory=frontend)
 
 Click the button to deploy your own copy on Vercel in one step.
 
